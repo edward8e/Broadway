@@ -1,0 +1,48 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+h1{
+  font-weight: bold;
+}
+
+
+/* This is the CSS for the Title of the Webpage */
+.title, #info{
+  background-image: url("../resources/images/the-flatiron-building.jpg");
+}
+.title h1{
+  font-size: 70px;
+  color: white;
+}
+.btn-nav, #info, .rights{
+  color: white;
+}
+.btn-nav{
+  font-size: 18px;
+}
+
+
+/*This is the CSS for the Main Section*/
+
+.main h1{
+  font-size: 32px;
+}
+.main h2{
+  font-size: 23px;
+}
+.main p{
+  font-size: 14px;
+}
+
+/*This is the bottom Section*/
+
+#info{
+  font-size: 23px;
+}
+
+.rights{
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
