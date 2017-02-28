@@ -15,10 +15,10 @@ h1{
   font-size: 70px;
   color: white;
 }
-.btn-nav, #info, #rights{
+.btn-nav, #info, .rights{
   color: white;
 }
-.title p{
+.btn-nav{
   font-size: 18px;
 }
 
@@ -41,7 +41,7 @@ h1{
   font-size: 23px;
 }
 
-#rights{
+.rights{
   text-align: left;
   font-size: 11px;
   background-color: dimgray;
